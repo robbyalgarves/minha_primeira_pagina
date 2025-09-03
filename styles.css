@@ -14,6 +14,11 @@ img {
 
 }
 
-img  #robo {
-    width:5%;
+#robot {
+    width:10%;
+}
+
+.textovermelho {
+color: red
+
 }
