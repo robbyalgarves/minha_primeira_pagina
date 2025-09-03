@@ -1,0 +1,19 @@
+body {
+  background-color: LightGray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: #333333;
+  opacity: 0, 9;
+  border-bottom: 5px solid red;
+}
+
+img {
+    width: 40%;
+
+}
+
+img  #robo {
+    width:5%;
+}
